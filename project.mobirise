@@ -43,7 +43,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Главная",
+        "title": "О нашем проекте",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
