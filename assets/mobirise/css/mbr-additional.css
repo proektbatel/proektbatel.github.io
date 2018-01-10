@@ -1363,6 +1363,29 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qGjzLKFvQx {
+  background: #ffffff;
+}
+.cid-qGjzLKFvQx .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qGjzLKFvQx .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qGjzLKFvQx figcaption {
+  position: relative;
+}
+.cid-qGjzLKFvQx figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qGjzLKFvQx .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qGjtkEQ7rN {
   padding-top: 75px;
   padding-bottom: 0px;
@@ -1386,8 +1409,8 @@ body {
   text-align: center;
 }
 .cid-qGjuDEzRlC {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 105px;
+  padding-bottom: 120px;
   background-color: #000000;
 }
 .cid-qGjuDEzRlC .socicon-bg-facebook {
