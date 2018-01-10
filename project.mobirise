@@ -35,7 +35,9 @@
     "versionFirst": "4.5.4",
     "uniqCompNum": 2,
     "versionPublish": "4.5.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "Иконка": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
